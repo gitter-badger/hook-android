@@ -1,6 +1,8 @@
 hook-android [![Download](https://api.bintray.com/packages/doubleleft/hook-android/hook-android/images/download.svg)  ](https://bintray.com/doubleleft/hook-android/hook-android/_latestVersion)
 ===
 
+[![Join the chat at https://gitter.im/doubleleft/hook-android](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/doubleleft/hook-android?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Android client for [hook](https://github.com/doubleleft/hook).
 
 #How to Use
